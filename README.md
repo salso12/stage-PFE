@@ -1,2 +1,2 @@
 # stage-PFE
-application mobil pour la gestion automatisée des pannes équipement
+application web pour la gestion automatisée des pannes équipement
